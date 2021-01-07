@@ -2836,6 +2836,11 @@
   resolved "https://registry.yarnpkg.com/@types/stack-utils/-/stack-utils-1.0.1.tgz#0a851d3bd96498fa25c33ab7278ed3bd65f06c3e"
   integrity sha512-l42BggppR6zLmpfU6fq9HEa2oGPEI8yrSPL3GITjfRInppYFahObbIQOQK3UGxEnyQpltZLaPe75046NOZQikw==
 
+"@types/stylis@^4.0.0":
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/@types/stylis/-/stylis-4.0.0.tgz#ad0f07d60dd7291676d968498fa21d6b9bb1afe8"
+  integrity sha512-DB1wPXVDfTTyLO9tr4wTeAptinTGd+EemFDDJTdCfsLedYXuF1mRWpJtU74Rucqx7N7HecBmMwEERbPpLt1tGA==
+
 "@types/tapable@*":
   version "1.0.6"
   resolved "https://registry.yarnpkg.com/@types/tapable/-/tapable-1.0.6.tgz#a9ca4b70a18b270ccb2bc0aaafefd1d486b7ea74"
@@ -12896,10 +12901,10 @@ stylelint@^13.7.2:
     v8-compile-cache "^2.1.1"
     write-file-atomic "^3.0.3"
 
-stylis@^3.5.4:
-  version "3.5.4"
-  resolved "https://registry.yarnpkg.com/stylis/-/stylis-3.5.4.tgz#f665f25f5e299cf3d64654ab949a57c768b73fbe"
-  integrity sha512-8/3pSmthWM7lsPBKv7NXkzn2Uc9W7NotcwGNpJaa3k7WMM1XDCA4MgT5k/8BIexd5ydZdboXtU90XH9Ec4Bv/Q==
+stylis@^4.0.6:
+  version "4.0.6"
+  resolved "https://registry.yarnpkg.com/stylis/-/stylis-4.0.6.tgz#0d8b97b6bc4748bea46f68602b6df27641b3c548"
+  integrity sha512-1igcUEmYFBEO14uQHAJhCUelTR5jPztfdVKrYxRnDa5D5Dn3w0NxXupJNPr/VV/yRfZYEAco8sTIRZzH3sRYKg==
 
 sugarss@^2.0.0:
   version "2.0.0"

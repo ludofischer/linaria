@@ -41,6 +41,7 @@
   "devDependencies": {
     "@types/cosmiconfig": "^5.0.3",
     "@types/dedent": "^0.7.0",
+    "@types/stylis": "^4.0.0",
     "dedent": "^0.7.0",
     "strip-ansi": "^5.2.0"
   },
@@ -52,7 +53,7 @@
     "@linaria/logger": "^3.0.0-beta.0",
     "cosmiconfig": "^5.1.0",
     "source-map": "^0.6.1",
-    "stylis": "^3.5.4"
+    "stylis": "^4.0.6"
   },
   "peerDependencies": {
     "@babel/core": ">=7"
